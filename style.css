@@ -1,0 +1,29 @@
+.nav{
+    font-family: 'Roboto', sans-serif;
+    color:white;
+    display: flex;
+    align-content: center;
+    background-color: rgb(50, 50, 51);
+}
+.nav-title{
+    margin-left: 20px;
+}
+.nav-links{
+    display: flex;
+    margin-left: 300px;
+    list-style-type: none;
+    justify-content: space-evenly;
+}
+li{
+    margin-right: 25px;
+}
+.btn{
+    font-family: 'Roboto', sans-serif;
+    color:white;
+    background-color: rgb(22, 162, 184);
+    box-shadow: 3px 4px 0px black;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
